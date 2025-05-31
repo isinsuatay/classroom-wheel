@@ -8,9 +8,9 @@ import { motion, AnimatePresence } from "framer-motion";
 import styles from "../styles/Wheel.module.css";
 
 const students = [
-  "Merve Şahin", "Berke Öztürk", "Ali Tekin", "Ahmet Bayazıt",
-  "Hıraı Meysytskyı", "Mediha Alp", "Evren Çorakoğlu", "Mehmet Erdoğan",
-  "Arda Öztan", "Sümeyye Battal", "Merve Demirci", "Mustafa Erkılıç",
+  "Merve Şahin", "Berke Öztürk", "Ahmet Bayazıt",
+  "Hıraı Meysytskyı", "Mediha Alp", "Evren Çoraklı", "Mehmet Erdoğan",
+  "Arda Öztan", "Sümeyye Battal", "Mustafa Erkılıç",
   "Muammer Çolakoğlu", "Onur Öktem", "Oğuzhan Çevik", "Ümran Baysal",
   "Mehmet Bodur", "Emrah Güney"
 ];
